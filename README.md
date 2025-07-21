@@ -50,3 +50,23 @@ Implement CustomException to catch and log errors with detailed messages during 
 ## 6. Evaluation and Iteration
 Evaluate model performance using R-squared scores from utils.evaluate_models.
 Iterate by adjusting hyperparameters or trying different models based on evaluation results, updating train_pipeline.py as needed.
+
+###  How to Run the Application
+
+````
+
+
+1. Run the following command in your terminal to start the Flask application:
+
+```bash
+python application.py
+````
+
+2. Once the server is running, open your browser and go to:
+
+```
+http://127.0.0.1:5000/predictdata
+```
+
+This will take you to the prediction page of the application.
+
