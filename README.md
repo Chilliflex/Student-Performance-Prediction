@@ -53,7 +53,6 @@ Iterate by adjusting hyperparameters or trying different models based on evaluat
 
 ###  How to Run the Application
 
-````
 
 
 1. Run the following command in your terminal to start the Flask application:
